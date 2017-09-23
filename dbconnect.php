@@ -1,9 +1,9 @@
 <?php
 
 $db_host = "localhost";
-$db_name = "db";
-$db_user = "root";
-$db_pass = "toor";
+$db_name = "user";
+$db_user = "cryptomessage";
+$db_pass = "AaBbDd15641564";
 
 
 $conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
